@@ -1,4 +1,4 @@
-# Lingotran: French Months Practice Unit
+# SpeakFlow: French Months Practice Unit
 
 A high-performance, interactive language learning application built with React, Chakra UI, and the Web Speech API. This unit focuses on mastering the pronunciation and recognition of French months.
 

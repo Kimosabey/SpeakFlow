@@ -3,15 +3,15 @@
 This guide explains how to work with your dual Git setup.
 
 ## 1. Office / Work Projects (Default)
-**Use this for:** Lingotran projects, Azure DevOps, standard GitHub work.
+**Use this for:** Company projects, Azure DevOps, standard GitHub work.
 
 *   **Setup:** Do nothing special.
 *   **Clone:** Use standard URLs (HTTPS or standard SSH).
     ```powershell
-    git clone https://github.com/Lingotran/Backend.git
+    git clone https://github.com/Company/Backend.git
     ```
 *   **Identity:** Default (Global) settings are used automatically.
-    *   **Email:** `harshan.aiyappa@lingotran.com`
+    *   **Email:** `harshan.aiyappa@company.com`
     *   **Name:** `harshan-aiyappa`
 
 ---
