@@ -29,6 +29,9 @@ const Header = ({ score, total, progress }) => {
       </Box>
 
       <Flex justify="center" align="center" mb={{ base: 2, md: 3 }}>
+        <motion.div whileHover={{ rotate: 10, scale: 1.1 }}>
+          <Image src="/logo.svg" alt="SpeakFlow Logo" boxSize={{ base: "30px", md: "40px" }} mr={3} borderRadius="lg" />
+        </motion.div>
         <Box textAlign="left">
           <Heading as="h1" size={{ base: "sm", md: "md" }} color="text" letterSpacing="tight">French Months Unit</Heading>
           <Text fontSize={{ base: "2xs", md: "xs" }} color="textMuted" fontWeight="medium">
