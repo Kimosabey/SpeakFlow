@@ -100,7 +100,7 @@ const StartScreen = ({ onBegin }) => {
           display="inline-block"
           boxShadow="inner"
         >
-          <Image src="/assets/favicon1.png" boxSize={{ base: "50px", md: "65px" }} />
+          <Image src="/logo.svg" alt="SpeakFlow" boxSize={{ base: "50px", md: "65px" }} />
         </Box>
       </motion.div>
 
